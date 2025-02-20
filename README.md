@@ -47,3 +47,7 @@ This app allows users to browse Movies & TV Shows using an intuitive UI. The hom
 
 - Uses Retrofit and Coroutines to fetch data.
 - The app stores API responses efficiently to ensure a smooth experience.
+
+## 📱 Download
+You can download the latest APK from:
+[Download Movies & TV Show App APK](https://github.com/ShivamGaikwad200/Movie_Tv_Show/raw/refs/heads/master/app-debug.apk)
