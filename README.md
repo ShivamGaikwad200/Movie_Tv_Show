@@ -24,6 +24,12 @@ This app allows users to browse Movies & TV Shows using an intuitive UI. The hom
 - ✅ Navigation support with Jetpack Compose
 - ✅ Dependency injection using Koin
 
+## 📲 Screenshots
+<p align="center">
+  <img src="https://github.com/ShivamGaikwad200/Movie_Tv_Show/blob/master/Screenshots/Screenshot_2025-02-20-20-39-15-40_b25986c90ebdc5b8cd566db51eee175d.jpg" alt="Dashboard" height="500" width="250"/>
+  <img src="https://github.com/ShivamGaikwad200/Movie_Tv_Show/blob/master/Screenshots/Screenshot_2025-02-20-20-39-25-12_b25986c90ebdc5b8cd566db51eee175d.jpg" alt="Search" height="500" width="250"/>
+  <img src="https://github.com/ShivamGaikwad200/Movie_Tv_Show/blob/master/Screenshots/Screenshot_2025-02-20-20-39-30-86_b25986c90ebdc5b8cd566db51eee175d.jpg" alt="Details" height="500" width="250"/>
+
 ## 🔥 How It Works
 1. Home Screen:
 
